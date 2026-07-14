@@ -11,8 +11,8 @@
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=ashishkumar03440&label=Profile+Views&color=00F7FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/ashishkumar03440?label=Followers&style=flat-square&color=0e75b6"/>
 <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20Roles-success?style=flat-square"/>
 
 </div>
