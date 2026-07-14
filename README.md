@@ -1,263 +1,150 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=200&section=header&text=Hi%2C%20I'm%20Ashish%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18"/>
 
-### AI Engineer • Backend Developer • Building the Next Generation of Intelligent Systems
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Applications;Designing+Multi-Agent+AI+Systems;LangChain+%7C+RAG+%7C+LLMs;Node.js+%2F+TypeScript+Backend+Engineer;Open+to+AI+%2F+Backend+Roles" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;Multi-Agent+AI+Systems;LangChain+%7C+RAG+%7C+LLMs;Node.js+Backend+Developer;Always+Learning.+Always+Building." />
+<br/>
 
-<p>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-success?style=flat-square"/>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0e75b6"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20Roles-success?style=flat-square"/>
 
 </div>
 
----
+<br/>
 
-# 🚀 About Me
+## 🧭 About Me
 
-I'm an AI Engineer passionate about designing **intelligent systems that solve real-world problems.**
+I'm an **AI Engineer** who builds systems that go beyond chatbots — **multi-agent pipelines that retrieve knowledge, reason over it, validate their own outputs, and automate real workflows.**
 
-My interests go far beyond building chatbots.
+- 🎓 Built and shipped **EduAI**, a multi-agent academic feedback platform combining RAG, OCR, and LLM validation at scale
+- ⚙️ Comfortable owning the full stack: from vector search and agent orchestration to queues, auth, and deployment
+- 📈 Currently deepening expertise in **LangGraph, MCP, and production LLM infrastructure**
+- 🌱 2026 focus: shipping AI products real users depend on, and contributing to open-source AI frameworks
 
-I enjoy creating systems where **multiple AI agents collaborate, retrieve knowledge, reason, validate outputs, and automate complex workflows.**
+> 💬 *"Great software isn't written. It's engineered."*
 
-Currently focused on:
+<br/>
 
-- 🤖 Multi-Agent AI Systems
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ LangChain & LangGraph
-- 🌐 Backend Engineering
-- 📚 AI in Education
-- ☁️ Scalable Cloud Architectures
+## 🛠️ Tech Stack
 
----
-
-# 💻 Tech Stack
-
-## AI & Machine Learning
-
+**AI / ML**
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00A67E"/>
 <img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Claude-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-VectorDB-success?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge"/>
 </p>
 
----
-
-## Backend Development
-
+**Languages**
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker"/>
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,java"/>
 </p>
 
----
-
-## Programming Languages
-
+**Backend & Infra**
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,aws"/>
 </p>
 
----
+**Tooling**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-## Tools
+<br/>
 
-Git • GitHub • Postman • MongoDB Atlas • BullMQ • Socket.IO • REST APIs • JWT Authentication • AWS S3
+## 🌟 Featured Projects
 
----
+### 🎓 [EduAI](YOUR_PROJECT_LINK) — Multi-Agent Academic Feedback Platform
+A production-style pipeline where specialized agents grade, cross-check, and personalize feedback on real student submissions — including handwritten answers.
 
-# 🎯 What I Build
+- **Multi-agent architecture:** Gemini 1.5 Flash for fast generation, Claude as an independent validator agent
+- **RAG grounding:** Pinecone-backed retrieval keeps feedback curriculum-aware and NCERT-aligned
+- **Handles scale:** Bull + Redis queues process submissions asynchronously; MongoDB for persistence, AWS S3 for file storage
+- **OCR pipeline** turns handwritten answer sheets into gradable text before agents ever see them
 
-### 🤖 AI Agents
-
-- Autonomous AI workflows
-- Tool-calling AI agents
-- Multi-Agent Systems
-- AI orchestration pipelines
-- Intelligent workflow automation
-
----
-
-### 🧠 Retrieval-Augmented Generation
-
-- Semantic Search
-- Vector Databases
-- Pinecone Integration
-- Embeddings
-- Context-aware AI
-- Knowledge Retrieval
+`LangChain.js` `Gemini 1.5` `Claude` `Pinecone` `BullMQ` `MongoDB` `Redis` `AWS S3`
 
 ---
 
-### ⚙️ Backend Systems
+### ⚖️ [AI Legal Advisor](YOUR_PROJECT_LINK) — RAG-Powered Legal Assistant
+An LLM assistant that answers legal questions grounded in Indian law and constitutional references, not just model memory.
 
-- Production REST APIs
-- Authentication & Authorization
-- Event-driven architectures
-- Queue-based processing
-- Real-time applications
-- Scalable backend services
+- Retrieval-augmented answers via FAISS keep responses source-grounded and reduce hallucination
+- Streamlit interface for fast, accessible querying
 
----
-
-### 📚 AI for Education
-
-- AI Assignment Evaluation
-- Personalized Student Feedback
-- Curriculum-aware AI
-- OCR-based handwritten answer analysis
-- AI Teaching Assistants
+`LangChain` `Gemini` `FAISS` `Streamlit` `Python`
 
 ---
 
-# 🌟 Featured Projects
+### 🚌 [Smart Bus Tracking & Booking System](YOUR_PROJECT_LINK) — Real-Time Backend Platform
+A scalable backend for live vehicle tracking, route management, and booking.
 
-## 🎓 EduAI
+- Real-time location updates via event-driven architecture
+- Booking workflows designed for concurrent, high-traffic use
 
-> Multi-Agent AI Academic Feedback Platform
+`Node.js` `Express` `MongoDB` `Socket.IO` `REST APIs`
 
-### Features
+<br/>
 
-- Multi-Agent Architecture
-- LangChain.js
-- Gemini 1.5 Flash
-- Claude Validator
-- Pinecone RAG
-- Bull Queue
-- MongoDB
-- Redis
-- AWS S3
-- OCR for handwritten submissions
-- Curriculum-aware feedback
-- NCERT aligned evaluation
+## 📚 What I'm Building Toward
 
----
+| Area | Focus |
+|---|---|
+| 🤖 AI Agents | Tool-calling agents, orchestration pipelines, autonomous workflows |
+| 🧠 RAG | Semantic search, embeddings, vector DBs, context-aware retrieval |
+| ⚙️ Backend | Production APIs, event-driven systems, queue-based processing |
+| 📖 AI in Education | Assignment evaluation, OCR pipelines, curriculum-aware feedback |
 
-## ⚖️ AI Legal Advisor
+<br/>
 
-A legal assistant powered by LLMs and Retrieval-Augmented Generation capable of answering legal queries using Indian law and constitutional references.
-
-**Tech**
-
-- LangChain
-- Gemini
-- FAISS
-- Streamlit
-- Python
-
----
-
-## 🚌 Smart Bus Tracking & Booking System
-
-A scalable backend platform supporting route management, live tracking, booking workflows, and real-time updates.
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br/>
 
-# 🧩 Currently Learning
+## 🧩 Currently Learning
 
-- LangGraph
-- MCP (Model Context Protocol)
-- AI Agents
-- Distributed AI Systems
-- AI Memory Architectures
-- Production LLM Infrastructure
-- Kubernetes
-- Advanced System Design
+`LangGraph` · `MCP (Model Context Protocol)` · `AI Agent Memory Architectures` · `Distributed AI Systems` · `Kubernetes` · `Production LLM Infrastructure`
 
----
+<br/>
 
-# 🎯 2026 Goals
+## 🤝 Let's Connect
 
-- Build production-ready AI products
-- Contribute to open source AI frameworks
-- Master distributed AI systems
-- Publish technical blogs
-- Build AI products used by thousands of users
-
----
-
-# 💡 Engineering Philosophy
-
-> Build software that doesn't just automate work. Build systems that reason, learn, and collaborate.
-
----
-
-# 🤝 Let's Connect
+I'm actively open to **AI Engineering and Backend roles**. If you're building something interesting — or just want to talk multi-agent systems — reach out.
 
 <p>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-*"Great software isn't written. It's engineered."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00F7FF&height=100&section=footer"/>
 
 </div>
